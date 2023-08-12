@@ -101,11 +101,30 @@ Feel free to explore the complete list above and visit the websites of these com
 
 ## Contributing
 
-If you know of any other reputable IT outsourcing companies from Nepal that should be added to this list, you're welcome to contribute! Here's how:
+A big thank you to everyone who has contributed to the "Top IT Outsourcing Companies from Nepal" repository. Your contributions and efforts are greatly appreciated!
 
-1. Fork this repository.
-2. Edit the `README.md` file and add the new company in the same format as the existing entries.
-3. Create a pull request, and I'll review and merge your contribution.
+## How to Contribute
+
+If you'd like to contribute to this project, please follow the steps below:
+
+1. Fork the repository.
+2. Make necessary changes or additions.
+3. Create a pull request with a clear description of your changes.
+4. Your pull request will be reviewed, and if everything looks good, it will be merged.
+
+## Contributors List
+
+### Main Contributors
+
+- [Shovit Nepal](https://github.com/sobit-nep)
+
+### Additional Contributors
+
+- [Rewan Gautam](https://github.com/gtmray)
+
+<!-- Add your name in contriboutors list in the same format as - [Your Name](Your GitHub Profile URL) -->
+
+Thank you all for making this repo better and helping the IT community!
 
 Please ensure that the information you provide is accurate and up-to-date.
 
