@@ -129,6 +129,7 @@ If you'd like to contribute to this project, please follow the steps below:
 ### Additional Contributors
 
 - [Rewan Gautam](https://github.com/gtmray)
+- [Kushal Raj Sharma](https://github.com/kuxall)
 
 <!-- Add your name in contriboutors list in the same format as - [Your Name](Your GitHub Profile URL) -->
 
@@ -142,4 +143,4 @@ The information provided in this repository is based on data available as of now
 
 
 
-*Last updated: 2023-08-12*
+*Last updated: 2023-08-14*
