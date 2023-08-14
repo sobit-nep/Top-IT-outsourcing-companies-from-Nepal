@@ -130,6 +130,7 @@ If you'd like to contribute to this project, please follow the steps below:
 
 - [Rewan Gautam](https://github.com/gtmray)
 - [Kushal Raj Sharma](https://github.com/kuxall)
+- [Hem Bahadur Pun](https://github.com/hempun10)
 
 <!-- Add your name in contriboutors list in the same format as - [Your Name](Your GitHub Profile URL) -->
 
