@@ -96,6 +96,14 @@ Browse the table below to find companies that match your interests and skills. Y
 | 84   | Young Innovations        | [Website](https://younginnovations.com.np/) | IT Solutions                   |
 | 85   | Young Minds              | [Website](https://www.youngminds.com.np/)   | IT Solutions                   |
 | 86   | GritFeat Solutions       | [Website](https://www.gritfeat.com/)        | Data and ML                    |
+| 87   | Treeleaf AI			  | [Website](https://treeleaf.ai/)             | Machine Learning               |
+| 88   | RippeyAI				  | [Website](https://rippey.ai/)               | Conversational AI              |
+| 89   | Palmnind Technology      | [Website](https://palmmind.com/)            | Chatbot            			 |
+| 90   | Tuna Technology		  | [Website](https://tunatechnology.com)		| IT Solutions 					 |
+| 91   | InfoxIT				  | [Website](https://infoxit.com/)             | IT Solutions                   |	
+
+
+
 
 Feel free to explore the complete list above and visit the websites of these companies to gather more information about their services and potential job opportunities.
 
