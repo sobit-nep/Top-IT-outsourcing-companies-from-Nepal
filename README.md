@@ -17,7 +17,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | 5    | LogPoint                | [Website](https://www.logpoint.com/en/)          | Cybersecurity                     |
 | 6    | Fusemachines            | [Website](https://fusemachines.com/)             | Data Science                      |
 | 7    | F1Soft                  | [Website](https://www.f1soft.com/)               | Website Development               |
-| 8    | Yomari                  | [Website](https://yomari.com.np/)                | Website Development               |
+| 8    | Yomari                  | [Website](https://yomari.com.np/)                | Data               |
 | 9    | ExtensoData             | [Website](http://www.extensodata.com/)           | Data Science                      |
 | 10   | LogicaBeans             | [Website](https://logicabeans.com/#)             | Web Development                   |
 | 11   | Feat International      | [Website](https://featinternational.com/)        | Digital Marketing                 |
