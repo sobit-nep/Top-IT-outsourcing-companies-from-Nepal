@@ -104,6 +104,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | 92   | Everest Technologies    | [Website](https://everesttechnologies.com.np/)   | IT Solutions                      |
 | 93   | Skybase Innovations     | [Website](https://skybase.com.np/)               | IT Solutions                      |
 | 94   | Black Tech.             | [Website](https://www.blacktech.com.np/)         | IT Solutions                      |
+| 95   | Dolphin Dive Tech       | [Website](https://dolphindivetech.com/)          | IT Solutions                      |
 
 Feel free to explore the complete list above and visit the websites of these companies to gather more information about their services and potential job opportunities.
 
@@ -131,6 +132,7 @@ If you'd like to contribute to this project, please follow the steps below:
 - [Rewan Gautam](https://github.com/gtmray)
 - [Kushal Raj Sharma](https://github.com/kuxall)
 - [Hem Bahadur Pun](https://github.com/hempun10)
+- [Susan Shrestha](https://github.com/susanhsrestha)
 
 <!-- Add your name in contriboutors list in the same format as - [Your Name](Your GitHub Profile URL) -->
 
@@ -142,4 +144,4 @@ Please ensure that the information you provide is accurate and up-to-date.
 
 The information provided in this repository is based on data available as of now. Companies' offerings and details may change over time. It's recommended to visit the company websites and do further research before making any decisions.
 
-_Last updated: 2023-08-15_
+_Last updated: 2023-10-01_
