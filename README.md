@@ -105,6 +105,8 @@ Browse the table below to find companies that match your interests and skills. Y
 | 93   | Skybase Innovations     | [Website](https://skybase.com.np/)               | IT Solutions                      |
 | 94   | Black Tech.             | [Website](https://www.blacktech.com.np/)         | IT Solutions                      |
 | 95   | Dolphin Dive Tech       | [Website](https://dolphindivetech.com/)          | IT Solutions                      |
+| 96   | Adex International      | [Website](https://adex.ltd/)                     | Cloud/IT Solutions                |
+| 97   | NAXA                    | [Website](https://naxa.com.np/)                  | GIS/IT Solutions                  |
 
 Feel free to explore the complete list above and visit the websites of these companies to gather more information about their services and potential job opportunities.
 
