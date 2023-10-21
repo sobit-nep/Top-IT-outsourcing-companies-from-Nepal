@@ -107,6 +107,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | 95   | Dolphin Dive Tech       | [Website](https://dolphindivetech.com/)          | IT Solutions                      |
 | 96   | Adex International      | [Website](https://adex.ltd/)                     | Cloud/IT Solutions                |
 | 97   | NAXA                    | [Website](https://naxa.com.np/)                  | GIS/IT Solutions                  |
+| 98   | Alpas Technology        | [Website](https://www.alpas.com.np/)             | IT Solutions                      |
 
 Feel free to explore the complete list above and visit the websites of these companies to gather more information about their services and potential job opportunities.
 
@@ -135,6 +136,7 @@ If you'd like to contribute to this project, please follow the steps below:
 - [Kushal Raj Sharma](https://github.com/kuxall)
 - [Hem Bahadur Pun](https://github.com/hempun10)
 - [Susan Shrestha](https://github.com/susanhsrestha)
+- [Ritik Shrestha](https://github.com/shresritik)
 
 <!-- Add your name in contriboutors list in the same format as - [Your Name](Your GitHub Profile URL) -->
 
