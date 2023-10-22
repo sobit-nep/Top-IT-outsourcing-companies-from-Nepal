@@ -116,25 +116,13 @@ If you'd like to contribute to this project, please follow the steps below:
 3. Create a pull request with a clear description of your changes.
 4. Your pull request will be reviewed, and if everything looks good, it will be merged.
 
-## Contributors List
 
-### Main Contributors
+## Contributors
+[![Contributors](https://contrib.rocks/image?repo=sobit-nep/Top-IT-outsourcing-companies-from-Nepal)](https://github.com/sobit-nep/Top-IT-outsourcing-companies-from-Nepal/graphs/contributors)
 
-- [Shovit Nepal](https://github.com/sobit-nep)
+  Thank you all for making this repo better and helping the IT community!
 
-### Additional Contributors
-
-- [Rewan Gautam](https://github.com/gtmray)
-- [Kushal Raj Sharma](https://github.com/kuxall)
-- [Hem Bahadur Pun](https://github.com/hempun10)
-- [Susan Shrestha](https://github.com/susanhsrestha)
-- [Ritik Shrestha](https://github.com/shresritik)
-
-<!-- Add your name in contributors' list in the same format as - [Your Name](Your GitHub Profile URL) -->
-
-Thank you all for making this repo better and helping the IT community!
-
-Please ensure that the information you provide is accurate and up-to-date.
+  Please ensure that the information you provide is accurate and up-to-date.
 
 ## Disclaimer
 
