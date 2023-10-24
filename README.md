@@ -48,6 +48,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Gurzu                   | [Website](https://gurzu.com/)                    | Software Development              |
 | Info Developers         | [Website](https://www.infodev.com.np/)           | IT Solutions                      |
 | InfoxIT                 | [Website](https://infoxit.com/)                  | IT Solutions                      |
+| Innovate Nepal          | [Website](https://ing.com.np/)                   | IT Services                       |
 | Insight Workshop        | [Website](https://insightworkshop.io/)           | IT Solutions                      |
 | Introcept Nepal         | [Website](https://nepal.introcept.co/)           | IT Solutions                      |
 | IShani Technology       | [Website](http://ishanitech.com/)                | IT Solutions                      |
@@ -73,6 +74,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | NAXA                    | [Website](https://naxa.com.np/)                  | GIS/IT Solutions                  |
 | Numeric Mind            | [Website](https://numericmind.com/)              | Data Science                      |
 | Outsource Array         | [Website](https://outsourcearray.com/)           | IT Solutions                      |
+| Paaila Technology       | [Website](https://paailatechnology.com/)         | Robotics and AI Solutions         |
 | Palmnind Technology     | [Website](https://palmmind.com/)                 | Chatbot                           |
 | PAS                     | [Website](https://pas.com.np/)                   | IT Solutions                      |
 | PCS                     | [Website](http://www.pcs.com.np/)                | IT Solutions                      |
