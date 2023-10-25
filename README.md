@@ -91,6 +91,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Tech 101                | [Website](https://www.tech101.com.np/)           | IT Solutions                      |
 | Tech One Global         | [Website](https://techoneglobal.com/)            | IT Solutions                      |
 | Three monk              | [Website](http://www.threemonk.com/)             | IT Solutions                      |
+| Thulo Technology        | [Website](https://thulotechnology.com/)          | Application Development           |
 | Truemark                | [Website](https://www.truemark.dev/)             | IT Solutions                      |
 | Treeleaf AI             | [Website](https://treeleaf.ai/)                  | Machine Learning                  |
 | Tuna Technology         | [Website](https://tunatechnology.com)            | IT Solutions                      |
