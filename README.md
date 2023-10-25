@@ -16,6 +16,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Anubhabi Technology     | [Website](https://www.anubhabi.com/)             | Website Development               |
 | Atlas Tek               | [Website](https://atlastek.com.np/)              | IT Solutions                      |
 | Awecode                 | [Website](https://awecode.com/)                  | IT Solutions                      |
+| Bajra Techonologies     | [Website](https://bajratechnologies.com/)        | IT Solutions                      |
 | Black Tech.             | [Website](https://www.blacktech.com.np/)         | IT Solutions                      |
 | Braindigit              | [Website](https://www.braindigit.com/)           | IT Solutions                      |
 | Channakya Software      | [Website](https://www.channakyasoft.com/)        | IT Solutions                      |
