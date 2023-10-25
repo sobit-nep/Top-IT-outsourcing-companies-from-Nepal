@@ -47,6 +47,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Growcept                | [Website](https://growcept.com/)                 | IT Solutions                      |
 | Gurkha Technology       | [Website](https://gurkhatech.com/)               | Digital Marketing                 |
 | Gurzu                   | [Website](https://gurzu.com/)                    | Software Development              |
+| I3 Web Solution         | [Website](https://www.i3websolution.com/)        | Web Development                   |
 | Info Developers         | [Website](https://www.infodev.com.np/)           | IT Solutions                      |
 | InfoxIT                 | [Website](https://infoxit.com/)                  | IT Solutions                      |
 | Innovate Nepal          | [Website](https://ing.com.np/)                   | IT Services                       |
@@ -86,6 +87,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | RippeyAI                | [Website](https://rippey.ai/)                    | Conversational AI                 |
 | Rooster Logic           | [Website](https://roosterlogic.com/)             | Data Science                      |
 | Semantic Creation       | [Website](http://www.semanticcreation.com/)      | IT Solutions                      |
+| Smart Tech Nepal        | [Website](https://www.stnepal.com/)              | IT Solutions                      |
 | Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
 | Softsaro Nepal          | [Website](https://softsaro.com.np/)              | IT Solutions                      |
 | Sofwena                 | [Website](https://sofwena.com/)                  | IT Solutions                      |
