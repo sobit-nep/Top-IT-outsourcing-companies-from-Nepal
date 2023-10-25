@@ -71,13 +71,15 @@ Browse the table below to find companies that match your interests and skills. Y
 | Manaram Technology      | [Website](http://www.manaram.technology/)        | IT Solutions                      |
 | Mantra Ideas            | [Website](https://www.mantraideas.com/)          | IT Solutions                      |
 | Mhuchya                 | [Website](https://mhuchya.com.np/)               | IT Solutions                      |
-| Nepasoft                | [Website](https://nepasoft.com/)                 | IT Solutions                      |
 | NAXA                    | [Website](https://naxa.com.np/)                  | GIS/IT Solutions                  |
+| Nepasoft                | [Website](https://nepasoft.com/)                 | IT Solutions                      |
+| Nimble Infosys          | [Website](https://nimbleinfosys.com/)            | IT Solutions                      |
 | Numeric Mind            | [Website](https://numericmind.com/)              | Data Science                      |
 | Outsource Array         | [Website](https://outsourcearray.com/)           | IT Solutions                      |
 | Paaila Technology       | [Website](https://paailatechnology.com/)         | Robotics and AI Solutions         |
-| Palmnind Technology     | [Website](https://palmmind.com/)                 | Chatbot                           |
+| Palmmind Technology     | [Website](https://palmmind.com/)                 | Chatbot                           |
 | PAS                     | [Website](https://pas.com.np/)                   | IT Solutions                      |
+| Pathway Technologies    | [Website](http://www.pathway.com.np/)            | Data Collection and DSS           |
 | PCS                     | [Website](http://www.pcs.com.np/)                | IT Solutions                      |
 | Peace Nepal             | [Website](https://peacenepal.com.np/)            | IT Solutions                      |
 | Proshore                | [Website](https://proshore.nl/)                  | IT Solutions                      |
@@ -85,11 +87,13 @@ Browse the table below to find companies that match your interests and skills. Y
 | Rooster Logic           | [Website](https://roosterlogic.com/)             | Data Science                      |
 | Semantic Creation       | [Website](http://www.semanticcreation.com/)      | IT Solutions                      |
 | Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
+| Softsaro Nepal          | [Website](https://softsaro.com.np/)              | IT Solutions                      |
 | Sofwena                 | [Website](https://sofwena.com/)                  | IT Solutions                      |
 | Spark Tech              | [Website](https://spark.com.np/)                 | IT Solutions                      |
 | Sustainable Solutions   | [Website](http://sussol.net/)                    | IT Solutions                      |
 | Tech 101                | [Website](https://www.tech101.com.np/)           | IT Solutions                      |
 | Tech One Global         | [Website](https://techoneglobal.com/)            | IT Solutions                      |
+| Tekkon Technologies     | [Website](https://tekkon.com.np/)                | IT Solutions                      |
 | Three monk              | [Website](http://www.threemonk.com/)             | IT Solutions                      |
 | Thulo Technology        | [Website](https://thulotechnology.com/)          | Application Development           |
 | Truemark                | [Website](https://www.truemark.dev/)             | IT Solutions                      |
