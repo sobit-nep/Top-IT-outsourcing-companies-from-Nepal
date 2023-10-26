@@ -24,8 +24,9 @@ Browse the table below to find companies that match your interests and skills. Y
 | Cloudyfox               | [Website](https://www.cloudyfox.io/)             | IT Solutions                      |
 | Cognizant Softvision    | [Website](https://www.cognizantsoftvision.com/)  | IT Solutions                      |
 | Cotiviti Nepal          | [Website](https://www.cotiviti.com.np/)          | Website Development, Data Science |
-| Cynical Technology      | [Website](https://cynicaltechnology.com/)        | Cyber Security                    |
+| Crystal Solution        | [Website](https://www.crystalsolution.com.np/)   | ERP Software and IT Solutions     |
 | Curves n’ Colors        | [Website](https://curvesncolors.com/)            | Graphic Design, UI/UX Design      |
+| Cynical Technology      | [Website](https://cynicaltechnology.com/)        | Cyber Security                    |
 | Danfe Solution          | [Website](http://danfesolution.com/)             | IT Solutions                      |
 | Dasmalab                | [Website](https://dasmalab.com/)                 | IT Solutions                      |
 | Delta Tech              | [Website](https://deltatechnepal.com/)           | IT Solutions                      |
@@ -48,6 +49,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Gurkha Technology       | [Website](https://gurkhatech.com/)               | Digital Marketing                 |
 | Gurzu                   | [Website](https://gurzu.com/)                    | Software Development              |
 | I3 Web Solution         | [Website](https://www.i3websolution.com/)        | Web Development                   |
+| Infinite IT Solutions   | [Website](https://infiniteitsolutionsnepal.com/) | IT Solutions                      |
 | Info Developers         | [Website](https://www.infodev.com.np/)           | IT Solutions                      |
 | InfoxIT                 | [Website](https://infoxit.com/)                  | IT Solutions                      |
 | Innovate Nepal          | [Website](https://ing.com.np/)                   | IT Services                       |
@@ -62,6 +64,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Kazi Studios            | [Website](https://kazistudios.com/)              | Design and Branding               |
 | Kharpann                | [Website](https://www.kharpann.com/)             | Data Science and Machine Learning |
 | Laser Infotech          | [Website](http://www.laser-infotech.com/)        | IT Solutions                      |
+| Leading Edge Software   | [Website](https://leadingedgesoft.com/)          | IT Solutions                      |
 | Leapfrog Technology     | [Website](https://www.lftechnology.com/)         | IT Solutions                      |
 | Libresoft               | [Website](https://libresoft.com.np/)             | IT Solutions                      |
 | Link Binary             | [Website](https://linkbinary.com/)               | IT Solutions                      |
