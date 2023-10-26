@@ -43,6 +43,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | F1Soft                  | [Website](https://www.f1soft.com/)               | Website Development               |
 | Fawesome Apps           | [Website](https://fawesomeapps.com/)             | IT Solutions                      |
 | Fusemachines            | [Website](https://fusemachines.com/)             | Data Science                      |
+| Genese Solution         | [Website](https://www.genesesolution.com/)       | Software Development              |
 | GritFeat Solutions      | [Website](https://www.gritfeat.com/)             | Data and ML                       |
 | Growcept                | [Website](https://growcept.com/)                 | IT Solutions                      |
 | Gurkha Technology       | [Website](https://gurkhatech.com/)               | Digital Marketing                 |
@@ -73,6 +74,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Mantra Ideas            | [Website](https://www.mantraideas.com/)          | IT Solutions                      |
 | Mhuchya                 | [Website](https://mhuchya.com.np/)               | IT Solutions                      |
 | NAXA                    | [Website](https://naxa.com.np/)                  | GIS/IT Solutions                  |
+| Nepal Link              | [website](https://nepallink.01cloud.com/)        | IT Solutions                      |
 | Nepasoft                | [Website](https://nepasoft.com/)                 | IT Solutions                      |
 | Nimble Infosys          | [Website](https://nimbleinfosys.com/)            | IT Solutions                      |
 | Numeric Mind            | [Website](https://numericmind.com/)              | Data Science                      |
