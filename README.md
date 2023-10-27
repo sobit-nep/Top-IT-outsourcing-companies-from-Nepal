@@ -22,6 +22,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Channakya Software      | [Website](https://www.channakyasoft.com/)        | IT Solutions                      |
 | CloudFactory            | [Website](https://www.cloudfactory.com.np/)      | Data Entry                        |
 | Cloudyfox               | [Website](https://www.cloudyfox.io/)             | IT Solutions                      |
+| Codewing Solutions      | [Website](https://codewing.co/)                  | Software Development              |
 | Cognizant Softvision    | [Website](https://www.cognizantsoftvision.com/)  | IT Solutions                      |
 | Cotiviti Nepal          | [Website](https://www.cotiviti.com.np/)          | Website Development, Data Science |
 | Crystal Solution        | [Website](https://www.crystalsolution.com.np/)   | ERP Software and IT Solutions     |
@@ -110,6 +111,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Umanga Creation         | [Website](https://umangacreation.com.np/)        | IT Solutions                      |
 | Unelma                  | [Website](https://www.unelmaplatforms.com/)      | IT Solutions                      |
 | Uniaxial Softwares      | [Website](http://uniaxialsoftwares.com/)         | IT Solutions                      |
+| Unitech IT Solution     | [Website](https://unitechhostnepal.com/)         | IT Solutions                      |
 | Verisk Nepal            | [Website](https://verisknepal.com.np/)           | Website Development               |
 | Web Page Nepal          | [Website](https://www.webpagenepal.com/)         | Website Design                    |
 | Websoft Nepal           | [Website](http://www.websoftnepal.com/)          | IT Solutions                      |
