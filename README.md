@@ -50,6 +50,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Growcept                | [Website](https://growcept.com/)                 | IT Solutions                      |
 | Gurkha Technology       | [Website](https://gurkhatech.com/)               | Digital Marketing                 |
 | Gurzu                   | [Website](https://gurzu.com/)                    | Software Development              |
+| Himalayan Techies       | [Website](https://himalayantechies.com/)         | Software Development              |
 | I3 Web Solution         | [Website](https://www.i3websolution.com/)        | Web Development                   |
 | Infinite IT Solutions   | [Website](https://infiniteitsolutionsnepal.com/) | IT Solutions                      |
 | Info Developers         | [Website](https://www.infodev.com.np/)           | IT Solutions                      |
@@ -112,6 +113,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Unelma                  | [Website](https://www.unelmaplatforms.com/)      | IT Solutions                      |
 | Uniaxial Softwares      | [Website](http://uniaxialsoftwares.com/)         | IT Solutions                      |
 | Unitech IT Solution     | [Website](https://unitechhostnepal.com/)         | IT Solutions                      |
+| Vairav Technology       | [Website](https://vairav.net/)                   | Cyber Security                    |
 | Verisk Nepal            | [Website](https://verisknepal.com.np/)           | Website Development               |
 | Web Page Nepal          | [Website](https://www.webpagenepal.com/)         | Website Design                    |
 | Websoft Nepal           | [Website](http://www.websoftnepal.com/)          | IT Solutions                      |
