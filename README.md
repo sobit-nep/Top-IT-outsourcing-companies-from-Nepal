@@ -33,6 +33,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Danfe Solution          | [Website](http://danfesolution.com/)             | IT Solutions                      |
 | Dasmalab                | [Website](https://dasmalab.com/)                 | IT Solutions                      |
 | Delta Tech              | [Website](https://deltatechnepal.com/)           | IT Solutions                      |
+| DevOps Technology       | [Website](https://devopstechnepal.com/)          | IT Solutions                      |
 | Dolphin Dive Tech       | [Website](https://dolphindivetech.com/)          | IT Solutions                      |
 | Eagle Vision            | [Website](http://eaglevisionit.com/)             | Website Development               |
 | Eeposit                 | [Website](https://www.eeposit.com/)              | IT Solutions                      |
@@ -60,6 +61,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Innovate Nepal          | [Website](https://ing.com.np/)                   | IT Services                       |
 | Insight Workshop        | [Website](https://insightworkshop.io/)           | IT Solutions                      |
 | Introcept Nepal         | [Website](https://nepal.introcept.co/)           | IT Solutions                      |
+| Intuji Pvt Ltd          | [Website](https://intuji.com/)                   | IT Solutions                      | 
 | IShani Technology       | [Website](http://ishanitech.com/)                | IT Solutions                      |
 | IT Advisors Nepal       | [Website](http://www.itadvisorsnepal.com/)       | IT Solutions                      |
 | Jankari Tech            | [Website](https://www.jankaritech.com/)          | Quality Assurance and Testing     |
@@ -100,6 +102,9 @@ Browse the table below to find companies that match your interests and skills. Y
 | Semicolon Developers    | [Website](https://semicolondev.com/)             | Software Development              |
 | Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
 | SoftNEP                 | [Website](https://www.softnep.com/)              | IT Services                       |
+| Softech Infosys         | [Website](http://www.softechinfosys.com)         | IT Solutions                      |
+| Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
+| SoftNEP                 | [Website](https://www.softnep.com/)              | IT Solutions                      |
 | Softsaro Nepal          | [Website](https://softsaro.com.np/)              | IT Solutions                      |
 | Sofwena                 | [Website](https://sofwena.com/)                  | IT Solutions                      |
 | Spark Tech              | [Website](https://spark.com.np/)                 | IT Solutions                      |
@@ -151,4 +156,4 @@ If you'd like to contribute to this project, please follow the steps below:
 
 The information provided in this repository is based on data available as of now. Companies' offerings and details may change over time. It's recommended to visit the company websites and do further research before making any decisions.
 
-_Last updated: 2023-10-22_
+_Last updated: 2023-10-29_
