@@ -100,8 +100,6 @@ Browse the table below to find companies that match your interests and skills. Y
 | Semantic Creation       | [Website](http://www.semanticcreation.com/)      | IT Solutions                      |
 | Smart Tech Nepal        | [Website](https://www.stnepal.com/)              | IT Solutions                      |
 | Semicolon Developers    | [Website](https://semicolondev.com/)             | Software Development              |
-| Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
-| SoftNEP                 | [Website](https://www.softnep.com/)              | IT Services                       |
 | Softech Infosys         | [Website](http://www.softechinfosys.com)         | IT Solutions                      |
 | Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
 | SoftNEP                 | [Website](https://www.softnep.com/)              | IT Solutions                      |
