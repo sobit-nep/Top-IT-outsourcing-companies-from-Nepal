@@ -97,7 +97,9 @@ Browse the table below to find companies that match your interests and skills. Y
 | Rooster Logic           | [Website](https://roosterlogic.com/)             | Data Science                      |
 | Semantic Creation       | [Website](http://www.semanticcreation.com/)      | IT Solutions                      |
 | Smart Tech Nepal        | [Website](https://www.stnepal.com/)              | IT Solutions                      |
+| Semicolon Developers    | [Website](https://semicolondev.com/)             | Software Development              |
 | Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
+| SoftNEP                 | [Website](https://www.softnep.com/)              | IT Services                       |
 | Softsaro Nepal          | [Website](https://softsaro.com.np/)              | IT Solutions                      |
 | Sofwena                 | [Website](https://sofwena.com/)                  | IT Solutions                      |
 | Spark Tech              | [Website](https://spark.com.np/)                 | IT Solutions                      |
