@@ -126,6 +126,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Websoft Nepal           | [Website](http://www.websoftnepal.com/)          | IT Solutions                      |
 | Yarsa Labs              | [Website](https://www.yarsalabs.com/)            | IT Solutions                      |
 | Young Innovations       | [Website](https://younginnovations.com.np/)      | IT Solutions                      |
+| Young Minds             | [Website](https://www.youngminds.com.np/)        | IT Solutions                      |
 
 Feel free to explore the complete list above and visit the websites of these companies to gather more information about their services and potential job opportunities.
 
