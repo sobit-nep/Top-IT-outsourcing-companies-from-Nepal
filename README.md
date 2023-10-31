@@ -12,6 +12,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | ----------------------- | ------------------------------------------------ | --------------------------------- |
 | Aayulogic               | [Website](https://aayulogic.com/)                | Website Development               |
 | Adex International      | [Website](https://adex.ltd/)                     | Cloud/IT Solutions                |
+| Agile Solutions         | [Website](https://agile.com.np/)                 | Business Enablement Services      |
 | Alpas Technology        | [Website](https://www.alpas.com.np/)             | IT Solutions                      |
 | Anubhabi Technology     | [Website](https://www.anubhabi.com/)             | Website Development               |
 | Atlas Tek               | [Website](https://atlastek.com.np/)              | IT Solutions                      |
