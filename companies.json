@@ -1,0 +1,35 @@
+{
+   "companies": [
+                  {
+                      "id": 1,
+                      "companyName": "Aayulogic",
+                      "website": "https://aayulogic.com/",
+                      "industryFocus": "Website Development"
+                  },
+                  {
+                      "id": 2,
+                      "companyName": "Adex International",
+                      "website": "https://adex.ltd/",
+                      "industryFocus": "Cloud/IT Solutions"
+                  },
+                  {
+                      "id": 3,
+                      "companyName": "Agile Solutions",
+                      "website": "https://agile.com.np/",
+                      "industryFocus": "Business Enablement Services"
+                  },
+                  {
+                      "id": 4,
+                      "companyName": "Alpas Technology",
+                      "website": "https://www.alpas.com.np/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 5,
+                      "companyName": "Anubhabi Technology",
+                      "website": "https://www.anubhabi.com/",
+                      "industryFocus": "Website Development"
+                  },
+                  /* ... (add other company details with respective IDs and create pull requests) ... */
+               ]
+}
