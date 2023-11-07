@@ -30,6 +30,103 @@
                       "website": "https://www.anubhabi.com/",
                       "industryFocus": "Website Development"
                   },
+                  {
+                      "id": 6,
+                      "companyName": "Atlas Tek",
+                      "website": "https://atlastek.com.np/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 7,
+                      "companyName": "Awecode",
+                      "website": "https://awecode.com/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 8,
+                      "companyName": "AZminds",
+                      "website": "https://azminds.com/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 9,
+                      "companyName": "Bajra Techonologies",
+                      "website": "https://bajratechnologies.com/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 10,
+                      "companyName": "Bidhee Pvt. Ltd.",
+                      "website": "https://bidhee.com/",
+                      "industryFocus": "ERP Software, Mobile and Web Apps"
+                  },
+                  {
+                      "id": 11,
+                      "companyName": "Black Tech.",
+                      "website": "https://www.blacktech.com.np/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 12,
+                      "companyName": "Braindigit",
+                      "website": "https://www.braindigit.com/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 13,
+                      "companyName": "Channakya Software",
+                      "website": "https://www.channakyasoft.com/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 14,
+                      "companyName": "CloudFactory",
+                      "website": "https://www.cloudfactory.com.np/",
+                      "industryFocus": "Data Entry"
+                  },
+                  {
+                      "id": 15,
+                      "companyName": "Cloudyfox",
+                      "website": "https://www.cloudyfox.io/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 16,
+                      "companyName": "Codewing Solutions",
+                      "website": "https://codewing.co/",
+                      "industryFocus": "Software Development"
+                  },
+                  {
+                      "id": 17,
+                      "companyName": "Cognizant Softvision",
+                      "website": "https://www.cognizantsoftvision.com/",
+                      "industryFocus": "IT Solutions"
+                  },
+                  {
+                      "id": 18,
+                      "companyName": "Cotiviti Nepal",
+                      "website": "https://www.cotiviti.com.np/",
+                      "industryFocus": "Website Development, Data Science"
+                  },
+                  {
+                      "id": 19,
+                      "companyName": "Crystal Solution"
+                      "website": "https://www.crystalsolution.com.np/",
+                      "industryFocus": "ERP Software and IT Solutions"
+                  },
+                  {
+                      "id": 20,
+                      "companyName": "Curves n’ Colors",
+                      "website": "https://curvesncolors.com/",
+                      "industryFocus": "Graphic Design, UI/UX Design"
+                  },
+                  {
+                      "id": 21,
+                      "companyName": "Cynical Technology",
+                      "website": "https://cynicaltechnology.com/",
+                      "industryFocus": "Cyber Security"
+                  }
+      
                   /* ... (add other company details with respective IDs and create pull requests) ... */
                ]
 }
