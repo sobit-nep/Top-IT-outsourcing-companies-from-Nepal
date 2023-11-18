@@ -22,6 +22,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Bidhee Pvt. Ltd.        | [Website](https://bidhee.com/)                   | ERP Software, Mobile and Web Apps |
 | Black Tech.             | [Website](https://www.blacktech.com.np/)         | IT Solutions                      |
 | Braindigit              | [Website](https://www.braindigit.com/)           | IT Solutions                      |
+| BrandBuilder Nepal      | [Website](https://www.brandbuilder.com.np/)      | IT Solutions                      |
 | Channakya Software      | [Website](https://www.channakyasoft.com/)        | IT Solutions                      |
 | CloudFactory            | [Website](https://www.cloudfactory.com.np/)      | Data Entry                        |
 | Cloudyfox               | [Website](https://www.cloudyfox.io/)             | IT Solutions                      |
