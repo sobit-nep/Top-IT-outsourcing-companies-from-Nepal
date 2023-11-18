@@ -95,6 +95,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Pathway Technologies    | [Website](http://www.pathway.com.np/)            | Data Collection and DSS           |
 | PCS                     | [Website](http://www.pcs.com.np/)                | IT Solutions                      |
 | Peace Nepal             | [Website](https://peacenepal.com.np/)            | IT Solutions                      |
+| Percoid IT Solutions    | [Website](http://percoidit.com/)                 | IT Solutions & Web development    |
 | Proshore                | [Website](https://proshore.nl/)                  | IT Solutions                      |
 | RippeyAI                | [Website](https://rippey.ai/)                    | Conversational AI                 |
 | Rooster Logic           | [Website](https://roosterlogic.com/)             | Data Science                      |

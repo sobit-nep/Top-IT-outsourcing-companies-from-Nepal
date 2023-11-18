@@ -125,7 +125,13 @@
                       "companyName": "Cynical Technology",
                       "website": "https://cynicaltechnology.com/",
                       "industryFocus": "Cyber Security"
-                  }
+                  },
+                  {
+                    "id": 22,
+                    "companyName": "Percoid IT Solutions",
+                    "website": "http://percoidit.com/",
+                    "industryFocus": "IT solutions, Web Developement and Mobile developement"
+                },
       
                   /* ... (add other company details with respective IDs and create pull requests) ... */
                ]
