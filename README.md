@@ -1,5 +1,7 @@
 # Top IT Outsourcing Companies from Nepal
 
+[![GitHub Stars](https://img.shields.io/github/stars/sobit-nep/Top-IT-outsourcing-companies-from-Nepal.svg?style=flat&logo=github&colorB=blue&label=stars)](https://github.com/sobit-nep/Top-IT-outsourcing-companies-from-Nepal/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sobit-nep/Top-IT-outsourcing-companies-from-Nepal.svg?style=flat&logo=github&colorB=blue&label=forks)](https://github.com/sobit-nep/Top-IT-outsourcing-companies-from-Nepal/network/members)
 Welcome to the list of top IT outsourcing companies from Nepal! This repository aims to provide a curated list of companies that offer a range of digital services, including software development, data science, graphic design, and more. If you're an IT enthusiast searching for job opportunities or looking to collaborate with Nepali IT firms, this list might be a valuable resource.
 
 ## How to Use
