@@ -110,6 +110,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Softhover               | [Website](https://www.softhover.com/)            | IT Solutions                      |
 | SoftNEP                 | [Website](https://www.softnep.com/)              | IT Solutions                      |
 | Softsaro Nepal          | [Website](https://softsaro.com.np/)              | IT Solutions                      |
+| SOFTSHALA NEPAL         | [Website](https://softshalanepal.com/)           | IT Solutions                      |
 | Sofwena                 | [Website](https://sofwena.com/)                  | IT Solutions                      |
 | Spark Tech              | [Website](https://spark.com.np/)                 | IT Solutions                      |
 | Sustainable Solutions   | [Website](http://sussol.net/)                    | IT Solutions                      |
