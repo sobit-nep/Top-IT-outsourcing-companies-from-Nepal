@@ -86,6 +86,7 @@ Browse the table below to find companies that match your interests and skills. Y
 | Makura Creations        | [Website](https://makuracreations.com/)          | IT Solutions                      |
 | Manaram Technology      | [Website](http://www.manaram.technology/)        | IT Solutions                      |
 | Mantra Ideas            | [Website](https://www.mantraideas.com/)          | IT Solutions                      |
+| MarginTop Solutions     | [Website](https://margintopsolutions.com/)       | Providing Top Notch Tech Solutions at Your Margin                      |
 | Mhuchya                 | [Website](https://mhuchya.com.np/)               | IT Solutions                      |
 | NAXA                    | [Website](https://naxa.com.np/)                  | GIS/IT Solutions                  |
 | Nepal Link              | [website](https://nepallink.01cloud.com/)        | IT Solutions                      |
