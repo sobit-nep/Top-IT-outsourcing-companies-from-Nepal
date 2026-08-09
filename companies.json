@@ -137,6 +137,12 @@
       "companyName": "Percoid IT Solutions",
       "website": "http://percoidit.com/",
       "industryFocus": "IT solutions, Web Developement and Mobile developement"
+    },
+    {
+      "id": 23,
+      "companyName": "MarginTop Solutions",
+      "website": "https://margintopsolutions.com/",
+      "industryFocus": "Providing Top Notch Tech Solutions at Your Margin"
     }
 
     //   /* ... (add other company details with respective IDs and create pull requests) ... */
